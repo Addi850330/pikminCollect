@@ -1,0 +1,15 @@
+<svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Repeat group 1_inner" data-figma-trr="r8u1.8-0f">
+<circle cx="129.873" cy="51.2475" r="43.6811" fill="#56F359"/>
+</g>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(129.873 -53.7952) rotate(45)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(259.746 3.21259e-06) rotate(90)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(313.541 129.873) rotate(135)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(259.746 259.746) rotate(-180)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(129.873 313.541) rotate(-135)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(9.15623e-07 259.746) rotate(-90)"/>
+<use xlink:href="#Repeat%20group%201_inner" transform="translate(-53.7952 129.873) rotate(-45)"/>
+<circle cx="129.5" cy="130.5" r="73.5" fill="#56F359"/>
+<rect x="95.8037" y="179.766" width="141.088" height="20.409" rx="10.2045" transform="rotate(-45 95.8037 179.766)" fill="white"/>
+<rect x="107.726" y="191.688" width="81.636" height="20.409" rx="10.2045" transform="rotate(-135 107.726 191.688)" fill="white"/>
+</svg>

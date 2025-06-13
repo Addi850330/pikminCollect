@@ -1,0 +1,2186 @@
+[
+  {
+    "tag_ID": 100,
+    "tagName": "Restaurant",
+    "tagNameCH": "餐廳",
+    "tagIconUrl": "./images/icon/Restaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 101,
+        "itemsName": "廚師帽子",
+        "itemNameEN": "Chef Hat",
+        "items": [
+          {
+            "item_ID": 1020,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat1.png"
+          },
+          {
+            "item_ID": 1021,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat2.png"
+          },
+          {
+            "item_ID": 1022,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat3.png"
+          },
+          {
+            "item_ID": 1023,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat4.png"
+          },
+          {
+            "item_ID": 1024,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat5.png"
+          },
+          {
+            "item_ID": 1025,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat6.png"
+          },
+          {
+            "item_ID": 1026,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 102,
+        "itemsName": "廚師帽子(稀有)",
+        "itemNameEN": "Chef Hat (Rare)",
+        "items": [
+          {
+            "item_ID": 1010,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare1.png"
+          },
+          {
+            "item_ID": 1011,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare2.png"
+          },
+          {
+            "item_ID": 1012,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare3.png"
+          },
+          {
+            "item_ID": 1013,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare4.png"
+          },
+          {
+            "item_ID": 1014,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare5.png"
+          },
+          {
+            "item_ID": 1015,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare6.png"
+          },
+          {
+            "item_ID": 1016,
+            "itemUrl": "./images/pikmin/Restaurant/chefhatrare7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 200,
+    "tagName": "Café",
+    "tagNameCH": "咖啡廳",
+    "tagIconUrl": "./images/icon/Cafe.png",
+    "tagItems": [
+      {
+        "items_ID": 201,
+        "itemsName": "咖啡杯",
+        "itemNameEN": "Coffee Cup",
+        "items": [
+          { "item_ID": 2010, "itemUrl": "./images/pikmin/Cafe/coffeecup1.png" },
+          { "item_ID": 2011, "itemUrl": "./images/pikmin/Cafe/coffeecup2.png" },
+          { "item_ID": 2012, "itemUrl": "./images/pikmin/Cafe/coffeecup3.png" },
+          { "item_ID": 2013, "itemUrl": "./images/pikmin/Cafe/coffeecup4.png" },
+          { "item_ID": 2014, "itemUrl": "./images/pikmin/Cafe/coffeecup5.png" },
+          { "item_ID": 2015, "itemUrl": "./images/pikmin/Cafe/coffeecup6.png" },
+          { "item_ID": 2016, "itemUrl": "./images/pikmin/Cafe/coffeecup7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 300,
+    "tagName": "Sweetshop",
+    "tagNameCH": "甜點店",
+    "tagIconUrl": "./images/icon/Sweetshop.png",
+    "tagItems": [
+      {
+        "items_ID": 301,
+        "itemsName": "馬卡龍",
+        "itemNameEN": "Macaron",
+        "items": [
+          {
+            "item_ID": 3010,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron1.png"
+          },
+          {
+            "item_ID": 3011,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron2.png"
+          },
+          {
+            "item_ID": 3012,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron3.png"
+          },
+          {
+            "item_ID": 3013,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron4.png"
+          },
+          {
+            "item_ID": 3014,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron5.png"
+          },
+          {
+            "item_ID": 3015,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron6.png"
+          },
+          {
+            "item_ID": 3016,
+            "itemUrl": "./images/pikmin/Sweetshop/Macaron7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 302,
+        "itemsName": "甜甜圈",
+        "itemNameEN": "Donut",
+        "items": [
+          {
+            "item_ID": 3020,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut1.png"
+          },
+          {
+            "item_ID": 3021,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut2.png"
+          },
+          {
+            "item_ID": 3022,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut3.png"
+          },
+          {
+            "item_ID": 3023,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut4.png"
+          },
+          {
+            "item_ID": 3024,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut5.png"
+          },
+          {
+            "item_ID": 3025,
+            "itemUrl": "./images/pikmin/Sweetshop/Donut6.png"
+          },
+          { "item_ID": 3026, "itemUrl": "./images/pikmin/Sweetshop/Donut7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 400,
+    "tagName": "Movie Theater",
+    "tagNameCH": "電影院",
+    "tagIconUrl": "./images/icon/MovieTheater.png",
+    "tagItems": [
+      {
+        "items_ID": 401,
+        "itemsName": "爆米花",
+        "itemNameEN": "Popcorn Snack",
+        "items": [
+          {
+            "item_ID": 4010,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn1.png"
+          },
+          {
+            "item_ID": 4011,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn2.png"
+          },
+          {
+            "item_ID": 4012,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn3.png"
+          },
+          {
+            "item_ID": 4013,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn4.png"
+          },
+          {
+            "item_ID": 4014,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn5.png"
+          },
+          {
+            "item_ID": 4015,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn6.png"
+          },
+          {
+            "item_ID": 4016,
+            "itemUrl": "./images/pikmin/MovieTheater/Popcorn7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 500,
+    "tagName": "Pharmacy",
+    "tagNameCH": "藥局",
+    "tagIconUrl": "./images/icon/Pharmacy.png",
+    "tagItems": [
+      {
+        "items_ID": 501,
+        "itemsName": "牙刷",
+        "itemNameEN": "Toothbrush",
+        "items": [
+          {
+            "item_ID": 5010,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush1.png"
+          },
+          {
+            "item_ID": 5011,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush2.png"
+          },
+          {
+            "item_ID": 5012,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush3.png"
+          },
+          {
+            "item_ID": 5013,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush4.png"
+          },
+          {
+            "item_ID": 5014,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush5.png"
+          },
+          {
+            "item_ID": 5015,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush6.png"
+          },
+          {
+            "item_ID": 5016,
+            "itemUrl": "./images/pikmin/Pharmacy/Toothbrush7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 600,
+    "tagName": "Zoo",
+    "tagNameCH": "動物園",
+    "tagIconUrl": "./images/icon/Zoo.png",
+    "tagItems": [
+      {
+        "items_ID": 601,
+        "itemsName": "蒲公英",
+        "itemNameEN": "Dandelion",
+        "items": [
+          { "item_ID": 6010, "itemUrl": "./images/pikmin/Zoo/Dandelion1.png" },
+          { "item_ID": 6011, "itemUrl": "./images/pikmin/Zoo/Dandelion2.png" },
+          { "item_ID": 6012, "itemUrl": "./images/pikmin/Zoo/Dandelion3.png" },
+          { "item_ID": 6013, "itemUrl": "./images/pikmin/Zoo/Dandelion4.png" },
+          { "item_ID": 6014, "itemUrl": "./images/pikmin/Zoo/Dandelion5.png" },
+          { "item_ID": 6015, "itemUrl": "./images/pikmin/Zoo/Dandelion6.png" },
+          { "item_ID": 6016, "itemUrl": "./images/pikmin/Zoo/Dandelion7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 700,
+    "tagName": "Forest",
+    "tagNameCH": "餐廳",
+    "tagIconUrl": "./images/icon/Forest.png",
+    "tagItems": [
+      {
+        "items_ID": 701,
+        "itemsName": "鍬形蟲",
+        "itemNameEN": "Stag Beetle",
+        "items": [
+          { "item_ID": 7010, "itemUrl": "./images/pikmin/Forest/Beetle1.png" },
+          { "item_ID": 7011, "itemUrl": "./images/pikmin/Forest/Beetle2.png" },
+          { "item_ID": 7012, "itemUrl": "./images/pikmin/Forest/Beetle3.png" },
+          { "item_ID": 7013, "itemUrl": "./images/pikmin/Forest/Beetle4.png" },
+          { "item_ID": 7014, "itemUrl": "./images/pikmin/Forest/Beetle5.png" },
+          { "item_ID": 7015, "itemUrl": "./images/pikmin/Forest/Beetle6.png" },
+          { "item_ID": 7016, "itemUrl": "./images/pikmin/Forest/Beetle7.png" }
+        ]
+      },
+      {
+        "items_ID": 702,
+        "itemsName": "橡栗",
+        "itemNameEN": "Acorn",
+        "items": [
+          { "item_ID": 7020, "itemUrl": "./images/pikmin/Forest/Acorn1.png" },
+          { "item_ID": 7021, "itemUrl": "./images/pikmin/Forest/Acorn2.png" },
+          { "item_ID": 7022, "itemUrl": "./images/pikmin/Forest/Acorn3.png" },
+          { "item_ID": 7023, "itemUrl": "./images/pikmin/Forest/Acorn4.png" },
+          { "item_ID": 7024, "itemUrl": "./images/pikmin/Forest/Acorn5.png" },
+          { "item_ID": 7025, "itemUrl": "./images/pikmin/Forest/Acorn6.png" },
+          { "item_ID": 7026, "itemUrl": "./images/pikmin/Forest/Acorn7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 800,
+    "tagName": "Waterside",
+    "tagNameCH": "水邊",
+    "tagIconUrl": "./images/icon/Waterside.png",
+    "tagItems": [
+      {
+        "items_ID": 801,
+        "itemsName": "擬餌",
+        "itemNameEN": "Fishing Lure",
+        "items": [
+          {
+            "item_ID": 8010,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure1.png"
+          },
+          {
+            "item_ID": 8011,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure2.png"
+          },
+          {
+            "item_ID": 8012,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure3.png"
+          },
+          {
+            "item_ID": 8013,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure4.png"
+          },
+          {
+            "item_ID": 8014,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure5.png"
+          },
+          {
+            "item_ID": 8015,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure6.png"
+          },
+          {
+            "item_ID": 8016,
+            "itemUrl": "./images/pikmin/Waterside/FishingLure7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 802,
+        "itemsName": "擬餌(稀有)",
+        "itemNameEN": "Fishing Lure (Rare)",
+        "items": [
+          {
+            "item_ID": 8020,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare1.png"
+          },
+          {
+            "item_ID": 8021,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare2.png"
+          },
+          {
+            "item_ID": 8022,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare3.png"
+          },
+          {
+            "item_ID": 8023,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare4.png"
+          },
+          {
+            "item_ID": 8024,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare5.png"
+          },
+          {
+            "item_ID": 8025,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare6.png"
+          },
+          {
+            "item_ID": 8026,
+            "itemUrl": "./images/pikmin/Waterside/FishingLureRare7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 900,
+    "tagName": "Post Office",
+    "tagNameCH": "郵局",
+    "tagIconUrl": "./images/icon/PostOffice.png",
+    "tagItems": [
+      {
+        "items_ID": 901,
+        "itemsName": "郵票",
+        "itemNameEN": "Stamp",
+        "items": [
+          {
+            "item_ID": 9010,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp1.png"
+          },
+          {
+            "item_ID": 9011,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp2.png"
+          },
+          {
+            "item_ID": 9012,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp3.png"
+          },
+          {
+            "item_ID": 9013,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp4.png"
+          },
+          {
+            "item_ID": 9014,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp5.png"
+          },
+          {
+            "item_ID": 9015,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp6.png"
+          },
+          {
+            "item_ID": 9016,
+            "itemUrl": "./images/pikmin/PostOffice/Stamp7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1000,
+    "tagName": "Art Gallery",
+    "tagNameCH": "美術館",
+    "tagIconUrl": "./images/icon/ArtGallery.png",
+    "tagItems": [
+      {
+        "items_ID": 1001,
+        "itemsName": "畫框",
+        "itemNameEN": "Picture Frame",
+        "items": [
+          {
+            "item_ID": 10010,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame1.png"
+          },
+          {
+            "item_ID": 10011,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame2.png"
+          },
+          {
+            "item_ID": 10012,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame3.png"
+          },
+          {
+            "item_ID": 10013,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame4.png"
+          },
+          {
+            "item_ID": 10014,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame5.png"
+          },
+          {
+            "item_ID": 10015,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame6.png"
+          },
+          {
+            "item_ID": 10016,
+            "itemUrl": "./images/pikmin/ArtGallery/PictureFrame7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1100,
+    "tagName": "Airport",
+    "tagNameCH": "機場",
+    "tagIconUrl": "./images/icon/Airport.png",
+    "tagItems": [
+      {
+        "items_ID": 1101,
+        "itemsName": "飛機玩具",
+        "itemNameEN": "Toy Airplane",
+        "items": [
+          {
+            "item_ID": 11010,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane1.png"
+          },
+          {
+            "item_ID": 11011,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane2.png"
+          },
+          {
+            "item_ID": 11012,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane3.png"
+          },
+          {
+            "item_ID": 11013,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane4.png"
+          },
+          {
+            "item_ID": 11014,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane5.png"
+          },
+          {
+            "item_ID": 11015,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane6.png"
+          },
+          {
+            "item_ID": 11016,
+            "itemUrl": "./images/pikmin/Airport/ToyAirplane7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1200,
+    "tagName": "Station",
+    "tagNameCH": "車站",
+    "tagIconUrl": "./images/icon/Station.png",
+    "tagItems": [
+      {
+        "items_ID": 1201,
+        "itemsName": "電車紙模型",
+        "itemNameEN": "Paper Train",
+        "items": [
+          {
+            "item_ID": 12010,
+            "itemUrl": "./images/pikmin/Station/PaperTrain1.png"
+          },
+          {
+            "item_ID": 12011,
+            "itemUrl": "./images/pikmin/Station/PaperTrain2.png"
+          },
+          {
+            "item_ID": 12012,
+            "itemUrl": "./images/pikmin/Station/PaperTrain3.png"
+          },
+          {
+            "item_ID": 12013,
+            "itemUrl": "./images/pikmin/Station/PaperTrain4.png"
+          },
+          {
+            "item_ID": 12014,
+            "itemUrl": "./images/pikmin/Station/PaperTrain5.png"
+          },
+          {
+            "item_ID": 12015,
+            "itemUrl": "./images/pikmin/Station/PaperTrain6.png"
+          },
+          {
+            "item_ID": 12016,
+            "itemUrl": "./images/pikmin/Station/PaperTrain7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 1202,
+        "itemsName": "票券",
+        "itemNameEN": "Ticket",
+        "items": [
+          {
+            "item_ID": 12020,
+            "itemUrl": "./images/pikmin/Station/Ticket1.png"
+          },
+          {
+            "item_ID": 12021,
+            "itemUrl": "./images/pikmin/Station/Ticket2.png"
+          },
+          {
+            "item_ID": 12022,
+            "itemUrl": "./images/pikmin/Station/Ticket3.png"
+          },
+          {
+            "item_ID": 12023,
+            "itemUrl": "./images/pikmin/Station/Ticket4.png"
+          },
+          {
+            "item_ID": 12024,
+            "itemUrl": "./images/pikmin/Station/Ticket5.png"
+          },
+          {
+            "item_ID": 12025,
+            "itemUrl": "./images/pikmin/Station/Ticket6.png"
+          },
+          { "item_ID": 12026, "itemUrl": "./images/pikmin/Station/Ticket7.png" }
+        ]
+      },
+      {
+        "items_ID": 1203,
+        "itemsName": "金色票卷",
+        "itemNameEN": "Gold Ticket",
+        "items": [
+          {
+            "item_ID": 12030,
+            "itemUrl": "./images/pikmin/Station/GoldTicket.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1300,
+    "tagName": "Beach",
+    "tagNameCH": "海灘",
+    "tagIconUrl": "./images/icon/Beach.png",
+    "tagItems": [
+      {
+        "items_ID": 1301,
+        "itemsName": "貝殼",
+        "itemNameEN": "Shell",
+        "items": [
+          { "item_ID": 13010, "itemUrl": "./images/pikmin/Beach/Shell1.png" },
+          { "item_ID": 13011, "itemUrl": "./images/pikmin/Beach/Shell2.png" },
+          { "item_ID": 13012, "itemUrl": "./images/pikmin/Beach/Shell3.png" },
+          { "item_ID": 13013, "itemUrl": "./images/pikmin/Beach/Shell4.png" },
+          { "item_ID": 13014, "itemUrl": "./images/pikmin/Beach/Shell5.png" },
+          { "item_ID": 13015, "itemUrl": "./images/pikmin/Beach/Shell6.png" },
+          { "item_ID": 13016, "itemUrl": "./images/pikmin/Beach/Shell7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1400,
+    "tagName": "Burger Place",
+    "tagNameCH": "漢堡店",
+    "tagIconUrl": "./images/icon/BurgerPlace.png",
+    "tagItems": [
+      {
+        "items_ID": 1401,
+        "itemsName": "漢堡",
+        "itemNameEN": "Burger",
+        "items": [
+          {
+            "item_ID": 14010,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger1.png"
+          },
+          {
+            "item_ID": 14011,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger2.png"
+          },
+          {
+            "item_ID": 14012,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger3.png"
+          },
+          {
+            "item_ID": 14013,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger4.png"
+          },
+          {
+            "item_ID": 14014,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger5.png"
+          },
+          {
+            "item_ID": 14015,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger6.png"
+          },
+          {
+            "item_ID": 14016,
+            "itemUrl": "./images/pikmin/BurgerPlace/Burger7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1500,
+    "tagName": "Corner Store",
+    "tagNameCH": "便利店",
+    "tagIconUrl": "./images/icon/CornerStore.png",
+    "tagItems": [
+      {
+        "items_ID": 1501,
+        "itemsName": "瓶蓋",
+        "itemNameEN": "Bottle Cap",
+        "items": [
+          {
+            "item_ID": 15010,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap1.png"
+          },
+          {
+            "item_ID": 15011,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap2.png"
+          },
+          {
+            "item_ID": 15012,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap3.png"
+          },
+          {
+            "item_ID": 15013,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap4.png"
+          },
+          {
+            "item_ID": 15014,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap5.png"
+          },
+          {
+            "item_ID": 15015,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap6.png"
+          },
+          {
+            "item_ID": 15016,
+            "itemUrl": "./images/pikmin/CornerStore/BottleCap7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 1502,
+        "itemsName": "零食",
+        "itemNameEN": "Snack",
+        "items": [
+          {
+            "item_ID": 15020,
+            "itemUrl": "./images/pikmin/CornerStore/Snack1.png"
+          },
+          {
+            "item_ID": 15021,
+            "itemUrl": "./images/pikmin/CornerStore/Snack2.png"
+          },
+          {
+            "item_ID": 15022,
+            "itemUrl": "./images/pikmin/CornerStore/Snack3.png"
+          },
+          {
+            "item_ID": 15023,
+            "itemUrl": "./images/pikmin/CornerStore/Snack4.png"
+          },
+          {
+            "item_ID": 15024,
+            "itemUrl": "./images/pikmin/CornerStore/Snack5.png"
+          },
+          {
+            "item_ID": 15025,
+            "itemUrl": "./images/pikmin/CornerStore/Snack6.png"
+          },
+          {
+            "item_ID": 15026,
+            "itemUrl": "./images/pikmin/CornerStore/Snack7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1600,
+    "tagName": "Supermarket",
+    "tagNameCH": "超市",
+    "tagIconUrl": "./images/icon/Supermarket.png",
+    "tagItems": [
+      {
+        "items_ID": 1601,
+        "itemsName": "蘑菇",
+        "itemNameEN": "Mushroom",
+        "items": [
+          {
+            "item_ID": 16010,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom1.png"
+          },
+          {
+            "item_ID": 16011,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom2.png"
+          },
+          {
+            "item_ID": 16012,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom3.png"
+          },
+          {
+            "item_ID": 16013,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom4.png"
+          },
+          {
+            "item_ID": 16014,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom5.png"
+          },
+          {
+            "item_ID": 16015,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom6.png"
+          },
+          {
+            "item_ID": 16016,
+            "itemUrl": "./images/pikmin/Supermarket/Mushroom7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 1602,
+        "itemsName": "香蕉",
+        "itemNameEN": "Banana",
+        "items": [
+          {
+            "item_ID": 16020,
+            "itemUrl": "./images/pikmin/Supermarket/Banana1.png"
+          },
+          {
+            "item_ID": 16021,
+            "itemUrl": "./images/pikmin/Supermarket/Banana2.png"
+          },
+          {
+            "item_ID": 16022,
+            "itemUrl": "./images/pikmin/Supermarket/Banana3.png"
+          },
+          {
+            "item_ID": 16023,
+            "itemUrl": "./images/pikmin/Supermarket/Banana4.png"
+          },
+          {
+            "item_ID": 16024,
+            "itemUrl": "./images/pikmin/Supermarket/Banana5.png"
+          },
+          {
+            "item_ID": 16025,
+            "itemUrl": "./images/pikmin/Supermarket/Banana6.png"
+          },
+          {
+            "item_ID": 16026,
+            "itemUrl": "./images/pikmin/Supermarket/Banana7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1700,
+    "tagName": "Bakery",
+    "tagNameCH": "麵包店",
+    "tagIconUrl": "./images/icon/Bakery.png",
+    "tagItems": [
+      {
+        "items_ID": 1701,
+        "itemsName": "法國麵包",
+        "itemNameEN": "Baguette",
+        "items": [
+          {
+            "item_ID": 17010,
+            "itemUrl": "./images/pikmin/Bakery/Baguette1.png"
+          },
+          {
+            "item_ID": 17011,
+            "itemUrl": "./images/pikmin/Bakery/Baguette2.png"
+          },
+          {
+            "item_ID": 17012,
+            "itemUrl": "./images/pikmin/Bakery/Baguette3.png"
+          },
+          {
+            "item_ID": 17013,
+            "itemUrl": "./images/pikmin/Bakery/Baguette4.png"
+          },
+          {
+            "item_ID": 17014,
+            "itemUrl": "./images/pikmin/Bakery/Baguette5.png"
+          },
+          {
+            "item_ID": 17015,
+            "itemUrl": "./images/pikmin/Bakery/Baguette6.png"
+          },
+          {
+            "item_ID": 17016,
+            "itemUrl": "./images/pikmin/Bakery/Baguette7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 1702,
+        "itemsName": "法國麵包(稀有)",
+        "itemNameEN": "Baguette (Rare)",
+        "items": [
+          {
+            "item_ID": 17020,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare1.png"
+          },
+          {
+            "item_ID": 17021,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare2.png"
+          },
+          {
+            "item_ID": 17022,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare3.png"
+          },
+          {
+            "item_ID": 17023,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare4.png"
+          },
+          {
+            "item_ID": 17024,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare5.png"
+          },
+          {
+            "item_ID": 17025,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare6.png"
+          },
+          {
+            "item_ID": 17026,
+            "itemUrl": "./images/pikmin/Bakery/BaguetteRare7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1800,
+    "tagName": "Hair Salon",
+    "tagNameCH": "美容院",
+    "tagIconUrl": "./images/icon/HairSalon.png",
+    "tagItems": [
+      {
+        "items_ID": 1801,
+        "itemsName": "剪刀",
+        "itemNameEN": "Scissors",
+        "items": [
+          {
+            "item_ID": 18010,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors1.png"
+          },
+          {
+            "item_ID": 18011,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors2.png"
+          },
+          {
+            "item_ID": 18012,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors3.png"
+          },
+          {
+            "item_ID": 18013,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors4.png"
+          },
+          {
+            "item_ID": 18014,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors5.png"
+          },
+          {
+            "item_ID": 18015,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors6.png"
+          },
+          {
+            "item_ID": 18016,
+            "itemUrl": "./images/pikmin/HairSalon/Scissors7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 1802,
+        "itemsName": "剪刀(稀有)",
+        "itemNameEN": "Scissors (Rare)",
+        "items": [
+          {
+            "item_ID": 18020,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare1.png"
+          },
+          {
+            "item_ID": 18021,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare2.png"
+          },
+          {
+            "item_ID": 18022,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare3.png"
+          },
+          {
+            "item_ID": 18023,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare4.png"
+          },
+          {
+            "item_ID": 18024,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare5.png"
+          },
+          {
+            "item_ID": 18025,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare6.png"
+          },
+          {
+            "item_ID": 18026,
+            "itemUrl": "./images/pikmin/HairSalon/ScissorsRare7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 1900,
+    "tagName": "Clothes Store",
+    "tagNameCH": "服裝店",
+    "tagIconUrl": "./images/icon/ClothesStore.png",
+    "tagItems": [
+      {
+        "items_ID": 1901,
+        "itemsName": "髮圈",
+        "itemNameEN": "Hair Tie",
+        "items": [
+          {
+            "item_ID": 19010,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie1.png"
+          },
+          {
+            "item_ID": 19011,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie2.png"
+          },
+          {
+            "item_ID": 19012,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie3.png"
+          },
+          {
+            "item_ID": 19013,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie4.png"
+          },
+          {
+            "item_ID": 19014,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie5.png"
+          },
+          {
+            "item_ID": 19015,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie6.png"
+          },
+          {
+            "item_ID": 19016,
+            "itemUrl": "./images/pikmin/ClothesStore/HairTie7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2000,
+    "tagName": "Park",
+    "tagNameCH": "公園",
+    "tagIconUrl": "./images/icon/Park.png",
+    "tagItems": [
+      {
+        "items_ID": 2001,
+        "itemsName": "幸運草",
+        "itemNameEN": "Clover",
+        "items": [
+          { "item_ID": 20010, "itemUrl": "./images/pikmin/Park/Clover1.png" },
+          { "item_ID": 20011, "itemUrl": "./images/pikmin/Park/Clover2.png" },
+          { "item_ID": 20012, "itemUrl": "./images/pikmin/Park/Clover3.png" },
+          { "item_ID": 20013, "itemUrl": "./images/pikmin/Park/Clover4.png" },
+          { "item_ID": 20014, "itemUrl": "./images/pikmin/Park/Clover5.png" },
+          { "item_ID": 20015, "itemUrl": "./images/pikmin/Park/Clover6.png" },
+          { "item_ID": 20016, "itemUrl": "./images/pikmin/Park/Clover7.png" }
+        ]
+      },
+      {
+        "items_ID": 2002,
+        "itemsName": "四葉幸運草",
+        "itemNameEN": "Four-Leaf Clover",
+        "items": [
+          {
+            "item_ID": 20020,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover1.png"
+          },
+          {
+            "item_ID": 20021,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover2.png"
+          },
+          {
+            "item_ID": 20022,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover3.png"
+          },
+          {
+            "item_ID": 20023,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover4.png"
+          },
+          {
+            "item_ID": 20024,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover5.png"
+          },
+          {
+            "item_ID": 20025,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover6.png"
+          },
+          {
+            "item_ID": 20026,
+            "itemUrl": "./images/pikmin/Park/FourLeafClover7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2100,
+    "tagName": "Library & Bookstore",
+    "tagNameCH": "圖書館",
+    "tagIconUrl": "./images/icon/LibraryAndBookstore.png",
+    "tagItems": [
+      {
+        "items_ID": 2101,
+        "itemsName": "迷你書",
+        "itemNameEN": "Tiny Book",
+        "items": [
+          {
+            "item_ID": 21010,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook1.png"
+          },
+          {
+            "item_ID": 21011,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook2.png"
+          },
+          {
+            "item_ID": 21012,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook3.png"
+          },
+          {
+            "item_ID": 21013,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook4.png"
+          },
+          {
+            "item_ID": 21014,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook5.png"
+          },
+          {
+            "item_ID": 21015,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook6.png"
+          },
+          {
+            "item_ID": 21016,
+            "itemUrl": "./images/pikmin/LibraryAndBookstore/TinyBook7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2200,
+    "tagName": "Roadside",
+    "tagNameCH": "路邊",
+    "tagIconUrl": "./images/icon/Roadside.png",
+    "tagItems": [
+      {
+        "items_ID": 2201,
+        "itemsName": "貼紙",
+        "itemNameEN": "Sticker",
+        "items": [
+          {
+            "item_ID": 22010,
+            "itemUrl": "./images/pikmin/Roadside/Sticker1.png"
+          },
+          {
+            "item_ID": 22011,
+            "itemUrl": "./images/pikmin/Roadside/Sticker2.png"
+          },
+          {
+            "item_ID": 22012,
+            "itemUrl": "./images/pikmin/Roadside/Sticker3.png"
+          },
+          {
+            "item_ID": 22013,
+            "itemUrl": "./images/pikmin/Roadside/Sticker4.png"
+          },
+          {
+            "item_ID": 22014,
+            "itemUrl": "./images/pikmin/Roadside/Sticker5.png"
+          },
+          {
+            "item_ID": 22015,
+            "itemUrl": "./images/pikmin/Roadside/Sticker6.png"
+          },
+          {
+            "item_ID": 22016,
+            "itemUrl": "./images/pikmin/Roadside/Sticker7.png"
+          },
+          {
+            "item_ID": 22017,
+            "itemUrl": "./images/pikmin/Roadside/Sticker8.png"
+          },
+          {
+            "item_ID": 22018,
+            "itemUrl": "./images/pikmin/Roadside/Sticker9.png"
+          },
+          {
+            "item_ID": 22019,
+            "itemUrl": "./images/pikmin/Roadside/Sticker10.png"
+          },
+          {
+            "item_ID": 220110,
+            "itemUrl": "./images/pikmin/Roadside/Sticker11.png"
+          },
+          {
+            "item_ID": 220111,
+            "itemUrl": "./images/pikmin/Roadside/Sticker12.png"
+          },
+          {
+            "item_ID": 220112,
+            "itemUrl": "./images/pikmin/Roadside/Sticker13.png"
+          },
+          {
+            "item_ID": 220113,
+            "itemUrl": "./images/pikmin/Roadside/Sticker14.png"
+          },
+          {
+            "item_ID": 220114,
+            "itemUrl": "./images/pikmin/Roadside/Sticker15.png"
+          },
+          {
+            "item_ID": 220115,
+            "itemUrl": "./images/pikmin/Roadside/Sticker16.png"
+          },
+          {
+            "item_ID": 220116,
+            "itemUrl": "./images/pikmin/Roadside/Sticker17.png"
+          },
+          {
+            "item_ID": 220117,
+            "itemUrl": "./images/pikmin/Roadside/Sticker18.png"
+          },
+          {
+            "item_ID": 220118,
+            "itemUrl": "./images/pikmin/Roadside/Sticker19.png"
+          },
+          {
+            "item_ID": 220119,
+            "itemUrl": "./images/pikmin/Roadside/Sticker20.png"
+          },
+          {
+            "item_ID": 220120,
+            "itemUrl": "./images/pikmin/Roadside/Sticker21.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 2202,
+        "itemsName": "金幣",
+        "itemNameEN": "Coin",
+        "items": [
+          { "item_ID": 22020, "itemUrl": "./images/pikmin/Roadside/Coin1.png" },
+          { "item_ID": 22021, "itemUrl": "./images/pikmin/Roadside/Coin2.png" },
+          { "item_ID": 22022, "itemUrl": "./images/pikmin/Roadside/Coin3.png" },
+          { "item_ID": 22023, "itemUrl": "./images/pikmin/Roadside/Coin4.png" },
+          { "item_ID": 22024, "itemUrl": "./images/pikmin/Roadside/Coin5.png" },
+          { "item_ID": 22025, "itemUrl": "./images/pikmin/Roadside/Coin6.png" },
+          { "item_ID": 22026, "itemUrl": "./images/pikmin/Roadside/Coin7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2300,
+    "tagName": "Sushi Restaurant",
+    "tagNameCH": "壽司餐廳",
+    "tagIconUrl": "./images/icon/SushiRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 2301,
+        "itemsName": "壽司",
+        "itemNameEN": "Sushi",
+        "items": [
+          {
+            "item_ID": 23010,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi1.png"
+          },
+          {
+            "item_ID": 23011,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi2.png"
+          },
+          {
+            "item_ID": 23012,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi3.png"
+          },
+          {
+            "item_ID": 23013,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi4.png"
+          },
+          {
+            "item_ID": 23014,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi5.png"
+          },
+          {
+            "item_ID": 23015,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi6.png"
+          },
+          {
+            "item_ID": 23016,
+            "itemUrl": "./images/pikmin/SushiRestaurant/Sushi7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2400,
+    "tagName": "Mountain",
+    "tagNameCH": "山丘",
+    "tagIconUrl": "./images/icon/Mountain.png",
+    "tagItems": [
+      {
+        "items_ID": 2401,
+        "itemsName": "山丘別針徽章",
+        "itemNameEN": "Mountain Pin Badget",
+        "items": [
+          {
+            "item_ID": 24010,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge1.png"
+          },
+          {
+            "item_ID": 24011,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge2.png"
+          },
+          {
+            "item_ID": 24012,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge3.png"
+          },
+          {
+            "item_ID": 24013,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge4.png"
+          },
+          {
+            "item_ID": 24014,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge5.png"
+          },
+          {
+            "item_ID": 24015,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge6.png"
+          },
+          {
+            "item_ID": 24016,
+            "itemUrl": "./images/pikmin/Mountain/MountainPinBadge7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2500,
+    "tagName": "Stadium",
+    "tagNameCH": "體育館",
+    "tagIconUrl": "./images/icon/Stadium.png",
+    "tagItems": [
+      {
+        "items_ID": 2501,
+        "itemsName": "體育館鑰匙圈",
+        "itemNameEN": "Ball Keychain",
+        "items": [
+          {
+            "item_ID": 25010,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain1.png"
+          },
+          {
+            "item_ID": 25011,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain2.png"
+          },
+          {
+            "item_ID": 25012,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain3.png"
+          },
+          {
+            "item_ID": 25013,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain4.png"
+          },
+          {
+            "item_ID": 25014,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain5.png"
+          },
+          {
+            "item_ID": 25015,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain6.png"
+          },
+          {
+            "item_ID": 25016,
+            "itemUrl": "./images/pikmin/Stadium/BallKeychain7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2600,
+    "tagName": "Rainy Day",
+    "tagNameCH": "雨天",
+    "tagIconUrl": "./images/icon/RainyDay.png",
+    "tagItems": [
+      {
+        "items_ID": 2601,
+        "itemsName": "葉子帽",
+        "itemNameEN": "Leaf Hat",
+        "items": [
+          {
+            "item_ID": 26010,
+            "itemUrl": "./images/pikmin/RainyDay/LeafHat1.png"
+          },
+          {
+            "item_ID": 26011,
+            "itemUrl": "./images/pikmin/RainyDay/LeafHat2.png"
+          },
+          {
+            "item_ID": 26012,
+            "itemUrl": "./images/pikmin/RainyDay/LeafHat3.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2700,
+    "tagName": "Snowy Day",
+    "tagNameCH": "下雪",
+    "tagIconUrl": "./images/icon/SnowyDay.png",
+    "tagItems": [
+      {
+        "items_ID": 2701,
+        "itemsName": "雪",
+        "itemNameEN": "Snow",
+        "items": [
+          { "item_ID": 27010, "itemUrl": "./images/pikmin/SnowyDay/Snow1.png" },
+          { "item_ID": 27011, "itemUrl": "./images/pikmin/SnowyDay/Snow2.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2800,
+    "tagName": "Theme Park",
+    "tagNameCH": "主題樂園",
+    "tagIconUrl": "./images/icon/ThemePark.png",
+    "tagItems": [
+      {
+        "items_ID": 2801,
+        "itemsName": "主題樂園門票",
+        "itemNameEN": "Theme Park Ticket",
+        "items": [
+          {
+            "item_ID": 28010,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket1.png"
+          },
+          {
+            "item_ID": 28011,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket2.png"
+          },
+          {
+            "item_ID": 28012,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket3.png"
+          },
+          {
+            "item_ID": 28013,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket4.png"
+          },
+          {
+            "item_ID": 28014,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket5.png"
+          },
+          {
+            "item_ID": 28015,
+            "itemUrl": "./images/pikmin/ThemePark/ThemeParkTicket6.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 2900,
+    "tagName": "Bus Stop",
+    "tagNameCH": "公車站",
+    "tagIconUrl": "./images/icon/BusStop.png",
+    "tagItems": [
+      {
+        "items_ID": 2901,
+        "itemsName": "公車紙模型",
+        "itemNameEN": "Bus Papercraft",
+        "items": [
+          {
+            "item_ID": 29010,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft1.png"
+          },
+          {
+            "item_ID": 29011,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft2.png"
+          },
+          {
+            "item_ID": 29012,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft3.png"
+          },
+          {
+            "item_ID": 29013,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft4.png"
+          },
+          {
+            "item_ID": 29014,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft5.png"
+          },
+          {
+            "item_ID": 29015,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft6.png"
+          },
+          {
+            "item_ID": 29016,
+            "itemUrl": "./images/pikmin/BusStop/BusPapercraft7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3000,
+    "tagName": "Italian Restaurant",
+    "tagNameCH": "義式餐廳",
+    "tagIconUrl": "./images/icon/ItalianRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 3001,
+        "itemsName": "披薩",
+        "itemNameEN": "Pizza",
+        "items": [
+          {
+            "item_ID": 30010,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza1.png"
+          },
+          {
+            "item_ID": 30011,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza2.png"
+          },
+          {
+            "item_ID": 30012,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza3.png"
+          },
+          {
+            "item_ID": 30013,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza4.png"
+          },
+          {
+            "item_ID": 30014,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza5.png"
+          },
+          {
+            "item_ID": 30015,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza6.png"
+          },
+          {
+            "item_ID": 30016,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pizza7.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3002,
+        "itemsName": "義大利麵",
+        "itemNameEN": "Pasta",
+        "items": [
+          {
+            "item_ID": 30020,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta1.png"
+          },
+          {
+            "item_ID": 30021,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta2.png"
+          },
+          {
+            "item_ID": 30022,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta3.png"
+          },
+          {
+            "item_ID": 30023,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta4.png"
+          },
+          {
+            "item_ID": 30024,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta5.png"
+          },
+          {
+            "item_ID": 30025,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta6.png"
+          },
+          {
+            "item_ID": 30026,
+            "itemUrl": "./images/pikmin/ItalianRestaurant/Pasta7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3100,
+    "tagName": "Ramen Restaurant",
+    "tagNameCH": "拉麵店",
+    "tagIconUrl": "./images/icon/RamenRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 3101,
+        "itemsName": "拉麵鑰匙圈",
+        "itemNameEN": "Ramen Keychain",
+        "items": [
+          {
+            "item_ID": 31010,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain1.png"
+          },
+          {
+            "item_ID": 31011,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain2.png"
+          },
+          {
+            "item_ID": 31012,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain3.png"
+          },
+          {
+            "item_ID": 31013,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain4.png"
+          },
+          {
+            "item_ID": 31014,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain5.png"
+          },
+          {
+            "item_ID": 31015,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain6.png"
+          },
+          {
+            "item_ID": 31016,
+            "itemUrl": "./images/pikmin/RamenRestaurant/RamenKeychain7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3200,
+    "tagName": "Bridge",
+    "tagNameCH": "橋梁",
+    "tagIconUrl": "./images/icon/Bridge.png",
+    "tagItems": [
+      {
+        "items_ID": 3201,
+        "itemsName": "橋梁別針",
+        "itemNameEN": "Bridge Pin Badge",
+        "items": [
+          {
+            "item_ID": 32010,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge1.png"
+          },
+          {
+            "item_ID": 32011,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge2.png"
+          },
+          {
+            "item_ID": 32012,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge3.png"
+          },
+          {
+            "item_ID": 32013,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge4.png"
+          },
+          {
+            "item_ID": 32014,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge5.png"
+          },
+          {
+            "item_ID": 32015,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge6.png"
+          },
+          {
+            "item_ID": 32016,
+            "itemUrl": "./images/pikmin/Bridge/BridgePinBadge7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3300,
+    "tagName": "Hotel",
+    "tagNameCH": "飯店",
+    "tagIconUrl": "./images/icon/Hotel.png",
+    "tagItems": [
+      {
+        "items_ID": 3301,
+        "itemsName": "飯店備品",
+        "itemNameEN": "Hotel Amenities",
+        "items": [
+          {
+            "item_ID": 33010,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities1.png"
+          },
+          {
+            "item_ID": 33011,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities2.png"
+          },
+          {
+            "item_ID": 33012,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities3.png"
+          },
+          {
+            "item_ID": 33013,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities4.png"
+          },
+          {
+            "item_ID": 33014,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities5.png"
+          },
+          {
+            "item_ID": 33015,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities6.png"
+          },
+          {
+            "item_ID": 33016,
+            "itemUrl": "./images/pikmin/Hotel/HotelAmenities7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3400,
+    "tagName": "Makeup Store",
+    "tagNameCH": "化妝品商店",
+    "tagIconUrl": "./images/icon/MakeupStores.png",
+    "tagItems": [
+      {
+        "items_ID": 3401,
+        "itemsName": "化妝品",
+        "itemNameEN": "Makeup",
+        "items": [
+          {
+            "item_ID": 34010,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup1.png"
+          },
+          {
+            "item_ID": 34011,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup2.png"
+          },
+          {
+            "item_ID": 34012,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup3.png"
+          },
+          {
+            "item_ID": 34013,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup4.png"
+          },
+          {
+            "item_ID": 34014,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup5.png"
+          },
+          {
+            "item_ID": 34015,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup6.png"
+          },
+          {
+            "item_ID": 34016,
+            "itemUrl": "./images/pikmin/MakeupStore/Makeup7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3500,
+    "tagName": "Shrines and Temples",
+    "tagNameCH": "神社和寺廟",
+    "tagIconUrl": "./images/icon/ShrinesandTemples.png",
+    "tagItems": [
+      {
+        "items_ID": 3501,
+        "itemsName": "運勢(大吉)",
+        "itemNameEN": "Fortune (Very Lucky)",
+        "items": [
+          {
+            "item_ID": 35010,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_11.png"
+          },
+          {
+            "item_ID": 35011,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_12.png"
+          },
+          {
+            "item_ID": 35012,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_13.png"
+          },
+          {
+            "item_ID": 35013,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_14.png"
+          },
+          {
+            "item_ID": 35014,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_15.png"
+          },
+          {
+            "item_ID": 35015,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_16.png"
+          },
+          {
+            "item_ID": 35016,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_17.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3502,
+        "itemsName": "運勢(吉)",
+        "itemNameEN": "Fortune (Lucky)",
+        "items": [
+          {
+            "item_ID": 35020,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_21.png"
+          },
+          {
+            "item_ID": 35021,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_22.png"
+          },
+          {
+            "item_ID": 35022,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_23.png"
+          },
+          {
+            "item_ID": 35023,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_24.png"
+          },
+          {
+            "item_ID": 35024,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_25.png"
+          },
+          {
+            "item_ID": 35025,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_26.png"
+          },
+          {
+            "item_ID": 35026,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_27.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3503,
+        "itemsName": "運勢(中吉)",
+        "itemNameEN": "Fortune (Pretty Lucky)",
+        "items": [
+          {
+            "item_ID": 35030,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_31.png"
+          },
+          {
+            "item_ID": 35031,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_32.png"
+          },
+          {
+            "item_ID": 35032,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_33.png"
+          },
+          {
+            "item_ID": 35033,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_34.png"
+          },
+          {
+            "item_ID": 35034,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_35.png"
+          },
+          {
+            "item_ID": 35035,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_36.png"
+          },
+          {
+            "item_ID": 35036,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_37.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3504,
+        "itemsName": "運勢(小吉)",
+        "itemNameEN": "Fortune (A Little Lucky)",
+        "items": [
+          {
+            "item_ID": 35040,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_41.png"
+          },
+          {
+            "item_ID": 35041,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_42.png"
+          },
+          {
+            "item_ID": 35042,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_43.png"
+          },
+          {
+            "item_ID": 35043,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_44.png"
+          },
+          {
+            "item_ID": 35044,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_45.png"
+          },
+          {
+            "item_ID": 35045,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_46.png"
+          },
+          {
+            "item_ID": 35046,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_47.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3505,
+        "itemsName": "運勢(末吉)",
+        "itemNameEN": "Fortune (Future Luck)",
+        "items": [
+          {
+            "item_ID": 35050,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_51.png"
+          },
+          {
+            "item_ID": 35051,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_52.png"
+          },
+          {
+            "item_ID": 35052,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_53.png"
+          },
+          {
+            "item_ID": 35053,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_54.png"
+          },
+          {
+            "item_ID": 35054,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_55.png"
+          },
+          {
+            "item_ID": 35055,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_56.png"
+          },
+          {
+            "item_ID": 35056,
+            "itemUrl": "./images/pikmin/ShrinesandTemples/Fortune_57.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3600,
+    "tagName": "Appliances Store",
+    "tagNameCH": "電器行",
+    "tagIconUrl": "./images/icon/AppliancesStore.png",
+    "tagItems": [
+      {
+        "items_ID": 3601,
+        "itemsName": "電池",
+        "itemNameEN": "Battery",
+        "items": [
+          {
+            "item_ID": 36010,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery1.png"
+          },
+          {
+            "item_ID": 36011,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery2.png"
+          },
+          {
+            "item_ID": 36012,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery3.png"
+          },
+          {
+            "item_ID": 36013,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery4.png"
+          },
+          {
+            "item_ID": 36014,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery5.png"
+          },
+          {
+            "item_ID": 36015,
+            "itemUrl": "./images/pikmin/AppliancesStore/Battery6.png"
+          }
+        ]
+      },
+      {
+        "items_ID": 3602,
+        "itemsName": "仙女燈",
+        "itemNameEN": "Fairy Lights",
+        "items": [
+          {
+            "item_ID": 36020,
+            "itemUrl": "./images/pikmin/AppliancesStore/FairyLights1.png"
+          },
+          {
+            "item_ID": 36021,
+            "itemUrl": "./images/pikmin/AppliancesStore/FairyLights2.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3700,
+    "tagName": "Curry Restaurant",
+    "tagNameCH": "咖哩餐廳",
+    "tagIconUrl": "./images/icon/CurryRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 3701,
+        "itemsName": "一碗咖哩",
+        "itemNameEN": "Curry Bowl",
+        "items": [
+          {
+            "item_ID": 37010,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl1.png"
+          },
+          {
+            "item_ID": 37011,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl2.png"
+          },
+          {
+            "item_ID": 37012,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl3.png"
+          },
+          {
+            "item_ID": 37013,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl4.png"
+          },
+          {
+            "item_ID": 37014,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl5.png"
+          },
+          {
+            "item_ID": 37015,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl6.png"
+          },
+          {
+            "item_ID": 37016,
+            "itemUrl": "./images/pikmin/CurryRestaurant/CurryBowl7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3800,
+    "tagName": "DIY Store",
+    "tagNameCH": "五金行",
+    "tagIconUrl": "./images/icon/DIYStore.png",
+    "tagItems": [
+      {
+        "items_ID": 3801,
+        "itemsName": "工具",
+        "itemNameEN": "Tool",
+        "items": [
+          { "item_ID": 38010, "itemUrl": "./images/pikmin/DIYStore/Tool1.png" },
+          { "item_ID": 38011, "itemUrl": "./images/pikmin/DIYStore/Tool2.png" },
+          { "item_ID": 38012, "itemUrl": "./images/pikmin/DIYStore/Tool3.png" },
+          { "item_ID": 38013, "itemUrl": "./images/pikmin/DIYStore/Tool4.png" },
+          { "item_ID": 38014, "itemUrl": "./images/pikmin/DIYStore/Tool5.png" },
+          { "item_ID": 38015, "itemUrl": "./images/pikmin/DIYStore/Tool6.png" },
+          { "item_ID": 38016, "itemUrl": "./images/pikmin/DIYStore/Tool7.png" }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 3900,
+    "tagName": "University & College",
+    "tagNameCH": "大學 & 學院",
+    "tagIconUrl": "./images/icon/UniversityAndCollege.png",
+    "tagItems": [
+      {
+        "items_ID": 3901,
+        "itemsName": "校徽胸針",
+        "itemNameEN": "College Crest Patch",
+        "items": [
+          {
+            "item_ID": 39010,
+            "itemUrl": "./images/pikmin/UniversityAndCollege/CollegeCrestPatch1.png"
+          },
+          {
+            "item_ID": 39011,
+            "itemUrl": "./images/pikmin/UniversityAndCollege/CollegeCrestPatch2.png"
+          },
+          {
+            "item_ID": 39012,
+            "itemUrl": "./images/pikmin/UniversityAndCollege/CollegeCrestPatch3.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 4000,
+    "tagName": "Mexican Restaurant",
+    "tagNameCH": "墨西哥餐廳",
+    "tagIconUrl": "./images/icon/MexicanRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 4001,
+        "itemsName": "塔可餅",
+        "itemNameEN": "Taco",
+        "items": [
+          {
+            "item_ID": 40010,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco1.png"
+          },
+          {
+            "item_ID": 40011,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco2.png"
+          },
+          {
+            "item_ID": 40012,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco3.png"
+          },
+          {
+            "item_ID": 40013,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco4.png"
+          },
+          {
+            "item_ID": 40014,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco5.png"
+          },
+          {
+            "item_ID": 40015,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco6.png"
+          },
+          {
+            "item_ID": 40016,
+            "itemUrl": "./images/pikmin/MexicanRestaurant/Taco7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 4100,
+    "tagName": "Laundromats & Dry Cleaners",
+    "tagNameCH": "自助洗衣店&乾洗店",
+    "tagIconUrl": "./images/icon/LaundromatsAndDryCleaners.png",
+    "tagItems": [
+      {
+        "items_ID": 4101,
+        "itemsName": "洗衣用品",
+        "itemNameEN": "Laundry Item",
+        "items": [
+          {
+            "item_ID": 41010,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem1.png"
+          },
+          {
+            "item_ID": 41011,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem2.png"
+          },
+          {
+            "item_ID": 41012,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem3.png"
+          },
+          {
+            "item_ID": 41013,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem4.png"
+          },
+          {
+            "item_ID": 41014,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem5.png"
+          },
+          {
+            "item_ID": 41015,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem6.png"
+          },
+          {
+            "item_ID": 41016,
+            "itemUrl": "./images/pikmin/LaundromatsAnndDryCleaners/LaundryItem7.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tag_ID": 4200,
+    "tagName": "Korean Restaurant",
+    "tagNameCH": "韓國餐廳",
+    "tagIconUrl": "./images/icon/KoreanRestaurant.png",
+    "tagItems": [
+      {
+        "items_ID": 4201,
+        "itemsName": "韓國泡菜",
+        "itemNameEN": "Kimchi",
+        "items": [
+          {
+            "item_ID": 42010,
+            "itemUrl": "./images/pikmin/KoreanRestaurant/Kimchi.png"
+          }
+        ]
+      }
+    ]
+  }
+]
