@@ -107,7 +107,7 @@ body {
   flex-direction: row-reverse;
 }
 .collection .items .choiceIcon {
-  width: 150px;
+  width: 180px;
   height: 40px;
   position: absolute;
   left: 50%;
