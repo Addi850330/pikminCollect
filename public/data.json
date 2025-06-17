@@ -829,6 +829,41 @@
             "itemUrl": "./images/pikmin/Supermarket/Banana7.png"
           }
         ]
+      },
+      {
+        "items_ID": 1603,
+        "itemsName": "香蕉(稀有)",
+        "itemNameEN": "Banana (Rare)",
+        "items": [
+          {
+            "item_ID": 16030,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare1.png"
+          },
+          {
+            "item_ID": 16031,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare2.png"
+          },
+          {
+            "item_ID": 16032,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare3.png"
+          },
+          {
+            "item_ID": 16033,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare4.png"
+          },
+          {
+            "item_ID": 16034,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare5.png"
+          },
+          {
+            "item_ID": 16035,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare6.png"
+          },
+          {
+            "item_ID": 16036,
+            "itemUrl": "./images/pikmin/Supermarket/BananaRare7.png"
+          }
+        ]
       }
     ]
   },
