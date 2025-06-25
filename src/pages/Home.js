@@ -140,7 +140,7 @@ const Home = () => {
                   <p>{tagItem.itemNameEN}</p>
                   <div className={style.tagItemImages}>
                     {tagItem.items.map((item) => {
-                      const isChecked = checkedItems.includes(item.item_ID); // 加上這行！
+                      const isChecked = checkedItems.includes(item.item_ID);
                       return (
                         <button
                           key={item.item_ID}
