@@ -96,6 +96,41 @@
           { "item_ID": 2015, "itemUrl": "./images/pikmin/Cafe/coffeecup6.png" },
           { "item_ID": 2016, "itemUrl": "./images/pikmin/Cafe/coffeecup7.png" }
         ]
+      },
+      {
+        "items_ID": 202,
+        "itemsName": "咖啡杯 (稀有)",
+        "itemNameEN": "Coffee Cup (Rare)",
+        "items": [
+          {
+            "item_ID": 2020,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare1.png"
+          },
+          {
+            "item_ID": 2021,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare2.png"
+          },
+          {
+            "item_ID": 2022,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare3.png"
+          },
+          {
+            "item_ID": 2023,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare4.png"
+          },
+          {
+            "item_ID": 2024,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare5.png"
+          },
+          {
+            "item_ID": 2025,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare6.png"
+          },
+          {
+            "item_ID": 2026,
+            "itemUrl": "./images/pikmin/Cafe/CoffeeCupRare7.png"
+          }
+        ]
       }
     ]
   },
