@@ -37,6 +37,10 @@
           {
             "item_ID": 1026,
             "itemUrl": "./images/pikmin/Restaurant/chefhat7.png"
+          },
+          {
+            "item_ID": 1027,
+            "itemUrl": "./images/pikmin/Restaurant/chefhat8.png"
           }
         ]
       },
@@ -1241,6 +1245,10 @@
             "itemUrl": "./images/pikmin/Roadside/Sticker7.png"
           },
           {
+            "item_ID": 220121,
+            "itemUrl": "./images/pikmin/Roadside/Sticker22.png"
+          },
+          {
             "item_ID": 22017,
             "itemUrl": "./images/pikmin/Roadside/Sticker8.png"
           },
@@ -1269,6 +1277,10 @@
             "itemUrl": "./images/pikmin/Roadside/Sticker14.png"
           },
           {
+            "item_ID": 220122,
+            "itemUrl": "./images/pikmin/Roadside/Sticker23.png"
+          },
+          {
             "item_ID": 220114,
             "itemUrl": "./images/pikmin/Roadside/Sticker15.png"
           },
@@ -1295,6 +1307,10 @@
           {
             "item_ID": 220120,
             "itemUrl": "./images/pikmin/Roadside/Sticker21.png"
+          },
+          {
+            "item_ID": 220123,
+            "itemUrl": "./images/pikmin/Roadside/Sticker24.png"
           }
         ]
       },
@@ -1309,7 +1325,41 @@
           { "item_ID": 22023, "itemUrl": "./images/pikmin/Roadside/Coin4.png" },
           { "item_ID": 22024, "itemUrl": "./images/pikmin/Roadside/Coin5.png" },
           { "item_ID": 22025, "itemUrl": "./images/pikmin/Roadside/Coin6.png" },
-          { "item_ID": 22026, "itemUrl": "./images/pikmin/Roadside/Coin7.png" }
+          { "item_ID": 22026, "itemUrl": "./images/pikmin/Roadside/Coin7.png" },
+          { "item_ID": 22027, "itemUrl": "./images/pikmin/Roadside/Coin8.png" }
+        ]
+      },
+      {
+        "items_ID": 2203,
+        "itemsName": "金幣(稀有)",
+        "itemNameEN": "Coin (Rare)",
+        "items": [
+          { "item_ID": 22030, "itemUrl": "./images/pikmin/Roadside/Coin9.png" },
+          {
+            "item_ID": 22031,
+            "itemUrl": "./images/pikmin/Roadside/Coin10.png"
+          },
+          {
+            "item_ID": 22032,
+            "itemUrl": "./images/pikmin/Roadside/Coin11.png"
+          },
+          {
+            "item_ID": 22033,
+            "itemUrl": "./images/pikmin/Roadside/Coin12.png"
+          },
+          {
+            "item_ID": 22034,
+            "itemUrl": "./images/pikmin/Roadside/Coin13.png"
+          },
+          {
+            "item_ID": 22035,
+            "itemUrl": "./images/pikmin/Roadside/Coin14.png"
+          },
+          {
+            "item_ID": 22036,
+            "itemUrl": "./images/pikmin/Roadside/Coin15.png"
+          },
+          { "item_ID": 22037, "itemUrl": "./images/pikmin/Roadside/Coin16.png" }
         ]
       }
     ]
